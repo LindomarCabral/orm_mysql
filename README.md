@@ -1,9 +1,3 @@
-Perfeito — subir agora e melhorar depois é **100% estratégia certa** 👍
-Segue um **README.md** simples, profissional e com **os devidos créditos à DIO**, ideal para projeto de curso.
-
-Você pode **copiar e colar direto** no arquivo `README.md` do seu repositório.
-
----
 
 ````markdown
 # Curso Ruby – Formação Ruby on Rails Developer
@@ -47,7 +41,7 @@ O objetivo deste projeto é servir como material de estudo, prática e consolida
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/LindomarCabral/orm_mysql.git
    ```
 
 3. Acesse a pasta do projeto:
@@ -59,7 +53,7 @@ O objetivo deste projeto é servir como material de estudo, prática e consolida
 4. Execute os arquivos Ruby conforme necessário:
 
    ```bash
-   ruby nome_do_arquivo.rb
+   ruby init.rb
    ```
 
 ---
